@@ -4,9 +4,9 @@
 view リンクで中身を覗いてみたり、raw リンクで直接ファイルをダウンロードしたりできます。
 
 - Markdown形式
-  - [view](markdown_output.md) [raw](https://github.com/stakiran/100q-minimalist/master/markdown_output.md)
+  - [view](markdown_output.md) [raw](https://raw.githubusercontent.com/stakiran/100q-minimalist/master/markdown_output.md)
 - ■区切り形式
-  - [view](plain_square_output.md) [raw](https://github.com/stakiran/100q-minimalist/master/plain_square_output.md)
+  - [view](plain_square_output.md) [raw](https://raw.githubusercontent.com/stakiran/100q-minimalist/master/plain_square_output.md)
 
 ## 質問集を使う
 以下の条件をすべて守れる場合のみ営利/非営利を問わず、改変の有無も問わず、また再配布の有無も問わず無料で利用できます。
