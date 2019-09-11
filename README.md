@@ -1,7 +1,7 @@
 # ミニマリストを丸裸にする 100 の質問
 
 ## 質問集を入手する
-view リンクで中身を覗いてみたり、raw リンクで直接ファイルをダウンロードしたりできます。
+直接ファイルをダウンロードしてご利用ください。
 
 - Markdown形式
   - [ダウンロード](https://raw.githubusercontent.com/stakiran/100q-minimalist/master/markdown_output.md)
