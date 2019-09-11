@@ -9,13 +9,12 @@
   - [ダウンロード](https://raw.githubusercontent.com/stakiran/100q-minimalist/master/plain_square_output.md)
 
 ## 質問集を使う
-以下の条件をすべて守れる場合のみ営利/非営利を問わず、改変の有無も問わず、また再配布の有無も問わず無料で利用できます。
+以下の条件をすべて守れる場合のみ、営利/非営利、改変の有無、再配布の有無を問わず、無料で利用できます。
 
-- 出典としてウェブサイト [https://stakiran.github.io/100q-minimalist/](https://stakiran.github.io/100q-minimalist/) へのリンクと作者名「吉良野すた」を記してください
+- 出典としてウェブサイト [https://stakiran.github.io/100q-minimalist/](https://stakiran.github.io/100q-minimalist/) へのリンクと作者名「吉良野すた」を記していただけると嬉しいです（強制ではない）
 - この質問集には何の保証もありません。この質問集を利用したことで生じた、いかなる問題についても作者は一切の責任を負いません
 
 ## (開発者向け) 質問集を作成する
-
 番号の採番や質問集フォーマットの変更を簡単にするため、スクリプトを使用しています。
 
 - (0) [リポジトリ](https://github.com/stakiran/100q-minimalist) からファイル一式を入手する
