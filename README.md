@@ -3,10 +3,14 @@
 ## 質問集を入手する
 直接ファイルをダウンロードしてご利用ください。
 
-- Markdown形式
-  - [ダウンロード](https://raw.githubusercontent.com/stakiran/100q-minimalist/master/markdown_output.md)
 - ■区切り形式
   - [ダウンロード](https://raw.githubusercontent.com/stakiran/100q-minimalist/master/plain_square_output.md)
+- Markdown形式(リスト)
+  - 質問文が `- 1. ……` の形式です
+  - [ダウンロード](https://raw.githubusercontent.com/stakiran/100q-minimalist/master/markdown_output.md)
+- Markdown形式(太字)
+  - 質問文が `- **Q1.** ……` の形式です
+  - [ダウンロード](https://raw.githubusercontent.com/stakiran/100q-minimalist/master/markdown_boldnumber_output.md)
 
 ## 質問集を使う
 以下の条件をすべて守れる場合のみ、営利/非営利、改変の有無、再配布の有無を問わず、無料で利用できます。
